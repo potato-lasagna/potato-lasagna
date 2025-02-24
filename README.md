@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=100&section=header&text=&fontSize=90&fontAlignY=44)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&pause=1000&color=50DACC&vCenter=true&width=720&height=28&center=true&lines=Be+careful+about+reading+health+books.;You+may+die+of+a+misprint.)](https://git.io/typing-svg)
@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL%20Workbench-004D8C?style=for-the-badge&logo=mysql&logoColor=white">  <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <br>
 
-</center>
+</div>
