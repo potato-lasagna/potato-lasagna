@@ -1,9 +1,9 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=100&section=header&text=&fontSize=90&fontAlignY=44)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&pause=1000&color=50DACC&vCenter=true&width=720&height=28&center=true&lines=Be+careful+about+reading+health+books.;You+may+die+of+a+misprint.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&pause=1000&color=50DACC&center=true&width=720&height=48&lines=Never+judge+from+appearances.+;Code+is+like+humor.;When+you+have+to+explain+it%2C+it%E2%80%99s+bad.)](https://git.io/typing-svg)
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 🍞 Tech Stack 🍞
 ===
