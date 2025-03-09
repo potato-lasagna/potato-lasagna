@@ -1,5 +1,3 @@
-### [🧊 Back to Top](#-Contents)
-
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=100&section=header&text=&fontSize=90&fontAlignY=44)
@@ -14,7 +12,7 @@
 <br><br><br><br>
 
 
-🥪 Contents 🥪
+Contents
 ===
 <br>
 
