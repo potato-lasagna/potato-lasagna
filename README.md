@@ -14,9 +14,9 @@
 🍽️ Table of Contents 🍽️
 ===
 
-### [🍞 Tech Stack](#Tech-Stack)
+### [🍞 Tech Stack](#-🍞-Tech-Stack-🍞)
 
-### [🍕 Current Focus](#Current-Focus)
+### [🍕 Current Focus](#-🍕-Current-Focus-🍕)
 
 <br><br><br><br>
 
