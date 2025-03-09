@@ -11,7 +11,7 @@
 
 <br><br><br><br>
 
-🍽️ Table of Contents 🍽️
+🍽 Table of Contents 🍽
 ===
 
 ### [🍞 Tech Stack](#-Tech-Stack)
@@ -44,7 +44,7 @@
 
 <br><br><br><br>
 
-[↑ Back to Top](#--Table-of-Contents)
+[↑ Back to Top](#-Table-of-Contents)
 
 </div>
  
