@@ -11,7 +11,7 @@
 
 <br><br><br><br>
 
-🍽 Table of Contents 🍽
+🍽️ Table of Contents 🍽️
 ===
 
 ### [🍞 Tech Stack](#-Tech-Stack)
