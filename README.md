@@ -18,8 +18,6 @@
 
 ### [🍕 Current Focus](#-Current-Focus)
 
-### [🧊 Back to Top](#-Table-of-Contents)
-
 <br><br><br><br>
 
 🍞 Tech Stack 🍞
@@ -46,7 +44,7 @@
 
 <br><br><br><br>
 
-### [🧊 Back to Top](#-🥪-Table-of-Contents-🥪)
+### [🧊 Back to Top](#🥪-Table-of-Contents-🥪)
 
 </div>
  
